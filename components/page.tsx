@@ -139,7 +139,7 @@ const PasswordGeneratorPage = () => {
                     paddingVertical: 10,
                     paddingHorizontal: 20,
                     borderRadius: 10,
-                    marginTop: 10,5
+                    marginTop: 10,
                 }}
                 >
                 <Text style={{ color: 'white', fontSize: 20 }}>{password}</Text>
